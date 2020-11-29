@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post item component Component is correctly ordered 1`] = `
+<div
+  key="1"
+>
+  <Link
+    to="/posts/1"
+  >
+    Post 1
+  </Link>
+  <p>
+    2020-02-02
+     | 
+    0
+     
+    comments
+  </p>
+</div>
+`;

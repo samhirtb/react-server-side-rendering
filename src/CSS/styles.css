@@ -1,0 +1,25 @@
+* {
+    margin : 0.5rem 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0 1rem;
+}
+
+div {
+    width: 100%;
+}
+
+textarea {
+    width: 90vw;
+    margin : 0 auto;
+    height: 30em;
+    display: block;
+}
+
+button {
+    border: 0;
+    padding: 1em 2.5em;
+    background-color: lightblue;
+}
